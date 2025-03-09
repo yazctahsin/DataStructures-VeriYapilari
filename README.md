@@ -1,7 +1,9 @@
 # DataStructures - Veri Yapıları 🚀  
 
 Bu repository, **C programlama dili** ile veri yapıları konularını öğrenmek ve uygulamak isteyenler için oluşturulmuştur.  
-Amacımız, hem Türkçe hem İngilizce açıklamalarla herkesin faydalanabileceği bir kaynak sunmaktır.  
+Kodlar kulllanıcılara yardımcı olmak için paylaşılmıştır.
+Bir C/C++ geliştirme ortamında main.c içerisinde yer alan kodların yazılmasıyla programlar çalışacaktır.
+Umarım herkese faydalı olur.
 
 ### 📚 İçerik:  
 #### 🇹🇷 Türkçe:  
@@ -25,6 +27,9 @@ Amacımız, hem Türkçe hem İngilizce açıklamalarla herkesin faydalanabilece
 11. 🛤️ **Dijkstra ve Prim Algoritmaları**  
 
 #### 🌍 English:  
+The codes are shared to help users.
+In a C/C++ development environment, the programs will run by writing the codes in main.c.
+I hope it will be useful for everyone.
 1. 🧭 **Pointers (\*)**  
 2. 🗂️ **Arrays**  
    - 📌 Operations on Arrays  
