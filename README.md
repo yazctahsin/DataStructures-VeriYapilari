@@ -1,4 +1,5 @@
 # DataStructures - Veri Yapıları 🚀  
+
 Bu repository, **C programlama dili** ile veri yapıları konularını öğrenmek ve uygulamak isteyenler için oluşturulmuştur.  
 Kodlar kulllanıcılara yardımcı olmak için paylaşılmıştır.
 Bir C/C++ geliştirme ortamında main.c içerisinde yer alan kodların yazılmasıyla programlar çalışacaktır.
