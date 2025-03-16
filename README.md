@@ -52,3 +52,4 @@ I hope it will be useful for everyone.
 ---
 
 ✨ Bu içerik, veri yapılarını anlamak ve C dilinde uygulamak için kapsamlı bir rehber sunar. Her konu için örnek kod ve açıklamalar repository'de yer alacaktır. Katkılarınızı bekliyoruz! 🌟  
+Tamamlandı
